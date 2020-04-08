@@ -1,7 +1,7 @@
 # Slack Theme
-Custom slack theme for slack redesign 👾
+Custom slack theme for slack redesign 👾(based on [Dracula](https://draculatheme.com/))
 
 #### Theme Colours
 ```
-#1A1D21,#3B3232,#FFC2C0,#1A1D21,#3B3232,#FFE9E8,#50FA7B,#FF5555,#1A1D21,#FFC2C0
+#1A1D21,#3B3232,#44475A,#1A1D21,#282A36,#FFFFFF,#50FA7B,#FF5555,#1A1D21,#FFFFFF
 ```
